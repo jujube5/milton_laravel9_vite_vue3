@@ -1,0 +1,3 @@
+<template>
+    It works!
+</template>
